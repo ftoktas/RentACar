@@ -4,3 +4,4 @@
 
 
 // yeni kodlar ekledim
+//bazi calismalar yaptim.
